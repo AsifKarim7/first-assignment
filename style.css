@@ -1,4 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
+}
+
+.section-one {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(/images/floods-in-bangladesh.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    padding: 245px;
+}
+
+.title h1 {
+    font-size: 90px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 25px;
+}
+
+.donate-button {
+    text-decoration: none;
+    background-color: #019267;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-size: 25px;
+    font-weight: 400;
 }
