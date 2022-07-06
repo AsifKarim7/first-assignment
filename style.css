@@ -35,6 +35,8 @@ p {
     text-decoration: none;
     background-color: #019267;
     padding: 10px 30px;
+    display: inline-block;
+    margin-top: 30px;
     border-radius: 5px;
     color: white;
     font-size: 25px;
@@ -204,8 +206,6 @@ p {
 .bonus-description p {
     font-size: 20px;
     color: #707070;
-    margin-bottom: 35px;
-
 }
 
 .update {
