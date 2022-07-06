@@ -98,3 +98,67 @@ p {
     margin: auto;
     border: 0.5px solid #DADADA;
 }
+
+.section-three {
+    text-align: center;
+}
+
+.donate-plan h2 {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.donate-plan p {
+    font-size: 20px;
+    color: #707070;
+    margin-bottom: 60px;
+}
+
+.plans {
+    display: flex;
+    justify-content: center;
+}
+
+.plan-format {
+    border: 0px solid black;
+    width: 25%;
+    height: 400px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 0px 20px;
+    padding: 15px 25px 15px 25px;
+    margin-bottom: 200px;
+    text-align: justify;
+}
+
+.plans img {
+    width: 65px;
+    height: 65px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.plans h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.plans p {
+    font-size: 20px;
+    color: #707070;
+}
+
+#plan-one {
+    background-color: #F5F0BB;
+
+}
+
+#plan-two {
+    background-color: #D9F8C4;
+
+}
+
+#plan-three {
+    background-color: #F8F9D7;
+
+}
