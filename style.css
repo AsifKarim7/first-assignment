@@ -240,7 +240,6 @@ p {
     border: none;
     border-radius: 5px;
     padding: 20px 80px;
-    color: white;
     font-size: 15px;
     background-color: #D9D9D9;
 }
@@ -255,4 +254,22 @@ p {
     font-size: 15px;
     font-weight: 500px;
     background-color: #019267;
+}
+
+footer {
+    padding: 50px 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer h3 {
+    font-family: 'Lobster', cursive;
+    color: #019267;
+    font-size: 45px;
+}
+
+footer p {
+    font-size: 20px;
+    color: #707070;
 }
