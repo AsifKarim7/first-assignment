@@ -9,7 +9,7 @@ body {
 }
 
 .section-one {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(/images/floods-in-bangladesh.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(images/floods-in-bangladesh.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -186,7 +186,7 @@ p {
 }
 
 #image-two {
-    background-image: url(/images/flood6.jpg);
+    background-image: url(images/flood6.jpg);
 }
 
 #image-three {
